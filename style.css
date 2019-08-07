@@ -20,6 +20,7 @@ h1 {
 
 p {
   font-family: 'Source Sans Pro', sans-serif;
+  margin-bottom: 40px;
 }
 
 .container {
@@ -32,17 +33,22 @@ p {
   font-family: 'Beth Ellen', cursive;
 }
 
+.lewagon:hover {
+  color: #ddd;
+}
+
 a:hover {
   color: #222;
 }
 
 .card {
   background-color: #FFF;
-  padding: 20px;
+  padding: 50px;
   border-radius: 10px;
   margin: 20px;
   box-shadow: 0 10px 30px rgba(0,0,0,.1); ;
 }
+
 
 .lewagon {
   color: white;
